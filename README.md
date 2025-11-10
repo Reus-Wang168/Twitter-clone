@@ -1,16 +1,7 @@
 # flutter_twitte_clone
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter Twitter Clone - Clean architecture/TDD/DDD & Supabase
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/62062070/194670614-6f7c0e4d-8d8b-4f0e-8d5f-5c6d6f7d5c6c.png)
