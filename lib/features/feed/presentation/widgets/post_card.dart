@@ -155,7 +155,10 @@ class _PostStat extends StatelessWidget {
         children: [
           Icon(icon, size: 18, color: iconColor),
           const SizedBox(width: 10),
-          Text('${count ?? 0}', style: const TextStyle(fontSize: 16)),
+          Text(
+            '${count ?? 0}',
+            style: const TextStyle(fontSize: 16, color: Colors.white),
+          ),
         ],
       ),
     );

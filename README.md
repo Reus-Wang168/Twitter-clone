@@ -1,7 +1,32 @@
 # flutter_twitte_clone
 
+A minimal social feed app built with Flutter and Supabase.
+Users can register, login, create posts, and like/unlike posts with smooth real-time updates.
 
+✨ Features
 
-Flutter Twitter Clone - Clean architecture/TDD/DDD & Supabase
+🔐 Authentication (Login / Register / Logout)
 
-![image](https://user-images.githubusercontent.com/62062070/194670614-6f7c0e4d-8d8b-4f0e-8d5f-5c6d6f7d5c6c.png)
+💾 Session persistence with local cache
+
+📝 Create posts with text & images
+
+❤️ Like / Unlike posts (optimistic UI)
+
+⚙️ Clean architecture with Bloc + Repository
+
+☁️ Supabase backend integration
+
+🧰 Tech Stack
+
+Flutter / Dart
+
+Supabase (Auth + Database)
+
+Bloc state management
+
+GetIt for dependency injection
+
+## 🎬 Demo Video
+
+[![Watch the demo](https://www.bilibili.com/video/BV1Q3kzBiEhW/?spm_id_from=333.1391.0.0&vd_source=145d1432e27c39341e6d0764d3e13323)]
