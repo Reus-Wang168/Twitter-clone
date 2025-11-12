@@ -29,4 +29,5 @@ GetIt for dependency injection
 
 ## 🎬 Demo Video
 
-[![Watch the demo](https://www.bilibili.com/video/BV1Q3kzBiEhW/?spm_id_from=333.1391.0.0&vd_source=145d1432e27c39341e6d0764d3e13323)]
+[![Watch the demo]## 🚀 项目演示
+[Bilibili 演示视频](https://www.bilibili.com/video/BV1Q3kzBiEhW/)
